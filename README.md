@@ -36,7 +36,7 @@ As a student with a degree in information systems, I am passionate about using t
 - 🌱 I’m currently learning Next. Js, and MongoDB  
   
 
-- ❓ Ask me about anything related to HTML, CSS, Javascript, React, C#  
+- ❓ Ask me about anything related to HTML, CSS, Javascript, React, and C#  
 
 
 </td><td valign="top" width="50%">
