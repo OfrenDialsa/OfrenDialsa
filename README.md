@@ -80,17 +80,6 @@
 
 
 
-
-
-<div align="center">
-
-<img src="https://gifdb.com/images/high/welcome-to-the-team-minions-lh0qkfh4uwyqphcw.gif" align="center" style="width: 100%" />
-
-</div>
-
----
-
-
 ## GitHub Profile Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeerooo&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeerooo&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeerooo&theme=city_lights)
