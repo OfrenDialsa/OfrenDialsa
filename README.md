@@ -23,8 +23,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div></td></tr></table>
 
----
-
 
 
 ## Connect with me
@@ -73,8 +71,6 @@
 	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
  
 </div>
-
----
 
 
 
