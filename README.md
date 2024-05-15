@@ -48,7 +48,7 @@
 
 ---
 ## Languages and Tools
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50" height="50" /></a>
   <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
