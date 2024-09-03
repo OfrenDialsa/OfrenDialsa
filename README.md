@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C#**
 
-- 📫 How to reach me: Email me @**ofrendialsa25@gmail.com**
+- 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
 
 - ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
 
