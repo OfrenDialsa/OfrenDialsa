@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
 
-- ⚡ Favourite Quote **'Pasting code from the internet into production code is like chewing gum found in the street.'**
+- ⚡ Favourite Quote **'_Pasting code from the internet into production code is like chewing gum found in the street._'**
 
 </td><td align="top" width="50%">
 
