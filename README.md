@@ -47,31 +47,78 @@
 </div>
 
 ---
-## Languages and Tools
+## Languages
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
-  <a href=" " target="_blank">
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" />
+</a>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
+</a>
+
+<br/>
+<br/>
+</div>
+
+---
+## Tools
+<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
+<a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
-  </a>
+</a>
+
+
+<br/>
+<br/>
+</div>
+
+---
+## Framework
+<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
+  
  <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50" />
-  </a>
-  <a href=" " target="_blank">
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
-  </a>
-  <a href="" target="_blank">
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" />
   </a>
   <a href="" target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50" />
   </a>
-  <a href="" target="_blank">
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="50" height="50" />
-  </a>
+
+ 
+  
   
  <br/>
  <br/>
 </div>
 
+---
+## Databases
+<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
+<a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" />
+</a>
+
+
+ <br/>
+ <br/>
+</div>
 
 
 ## GitHub Profile Summary Cards
