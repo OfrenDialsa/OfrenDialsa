@@ -17,7 +17,7 @@
 
 - ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
 
-</td><td valign="top" width="50%">
+</td><td align="top" width="50%">
 
 <div align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
