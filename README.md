@@ -10,9 +10,6 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <br/>
-<a href="https://github.com/neeerooo" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt=github style="margin-bottom: 5px;" width="120" height="120"/>
-</a>
 </a>
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-top: 5px;" width="130" height="130" />
