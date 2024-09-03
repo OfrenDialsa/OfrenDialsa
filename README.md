@@ -98,7 +98,7 @@
 
 ### Tools
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
-<a href=" " target="_blank">
+<a href=" ">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="60" height="60" />
 </a>
 <a href=" " target="_blank">
