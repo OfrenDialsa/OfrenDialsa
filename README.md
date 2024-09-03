@@ -50,7 +50,7 @@
 ## ⚒️ Technical Skill
 
 ### Languages
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
  <a href="" target="_blank">
    <img style="margin: 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
 </a>
