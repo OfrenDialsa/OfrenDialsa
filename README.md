@@ -27,7 +27,7 @@
 
 ## Connect with me
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin-right:120px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:120px;">
 <br/>
 <br/>
 <a href="https://github.com/neeerooo" target="_blank">
