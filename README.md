@@ -31,7 +31,7 @@
 
 - 🌱 I'm currently working on **Todo app** using **Android Studio**
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C#**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C# and many more**
 
 - 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
 
