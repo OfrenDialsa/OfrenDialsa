@@ -11,17 +11,17 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <br/>
 <a href="https://github.com/neeerooo" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt=github style="margin-bottom: 5px;" width="110" height="110"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt=github style="margin-bottom: 5px;" width="120" height="120"/>
 </a>
 </a>
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-bottom: 5px;" width="130" height="130" />
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin width="130" height="130" />
 </a>
 <a href="https://www.facebook.com/ofrendialsa.dialsa" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/ofren_" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <br/>
 </div>
