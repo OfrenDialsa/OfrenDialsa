@@ -2,6 +2,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
+
+---
+ 
+
 ## Connect with me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
@@ -27,8 +31,6 @@
 <br/>
 </div>
 
----
- 
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
