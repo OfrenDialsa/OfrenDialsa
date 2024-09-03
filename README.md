@@ -51,7 +51,7 @@
 ---
 ## ⚒️Technical Skill
 
-## Languages
+### Languages
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;>
  <a href="" target="_blank">
    <img style="margin: 100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
@@ -98,7 +98,7 @@
 </div>
 
 
-## Tools
+### Tools
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
 <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="60" height="60" />
@@ -134,7 +134,7 @@
 </div>
 
 
-## Framework
+### Framework
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
   
  <a href=" " target="_blank">
@@ -168,7 +168,7 @@
 </div>
 
 
-## Databases
+### Databases
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
 <a href="" target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="60" height="60" />
