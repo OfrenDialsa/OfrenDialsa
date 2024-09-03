@@ -9,7 +9,6 @@
 ## 🤝 Connect with me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
-</a>
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-top: 5px;" width="100" height="100" />
 </a>
@@ -78,16 +77,16 @@
 
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-</a>
-<a href="" target="_blank">
+
+
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" />
-</a>
-<a href="" target="_blank">
+
+
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-</a>
-<a href="" target="_blank">
+
+
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
-</a>
+
 
 
 
