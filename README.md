@@ -7,7 +7,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on **Library Management System, and Portfolio Website**
+- 🔭 I'm currently working on **My Portfolio Website**
 
 - 🌱 I'm currently working on **Todo app** using **Android Studio**
 
