@@ -35,7 +35,7 @@
 
 - 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
 
-- ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
+- ⚡ Favourite Quote **'Pasting code from the internet into production code is like chewing gum found in the street.'**
 
 </td><td align="top" width="50%">
 
