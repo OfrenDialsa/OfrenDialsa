@@ -9,7 +9,6 @@
 ## 🤝Connect with me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
-<br/>
 </a>
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-top: 5px;" width="130" height="130" />
@@ -19,8 +18,10 @@
 </a>
 <a href="https://instagram.com/ofren_" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt=instagram style="margin-bottom: 5px;" width="130" height="130"/>
-</a>  
-<br/>
+</a> 
+<a href="https://discordapp.com/users/1011201733231378494" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt=Discord style="margin-bottom: 5px;" width="130" height="130"/>
+</a>
 </div>
 
 ## 🚀 About Me
