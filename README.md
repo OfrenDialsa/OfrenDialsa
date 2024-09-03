@@ -7,15 +7,15 @@
  
 
 ## 🤝Connect with me
-https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <br/>
 <a href="https://github.com/neeerooo" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt=github style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
 </a>
 </a>
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/ofrendialsa.dialsa" target="_blank">
 <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
