@@ -54,7 +54,7 @@
 ## Languages
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;>
  <a href="" target="_blank">
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="70" height="70" />
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
 </a>
 <a href="" target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" />
