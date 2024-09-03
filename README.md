@@ -132,7 +132,7 @@
 
 
 ### Framework
-<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
+<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
   
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="60" height="60" />
