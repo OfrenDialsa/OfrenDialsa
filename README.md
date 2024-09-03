@@ -111,6 +111,15 @@
 <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
 </a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="50" height="50" />
+</a>
 
 
 <br/>
