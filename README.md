@@ -143,6 +143,10 @@
   <a href="" target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60" />
   </a>
+  <a href="" target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
+  </a>
+  
 
  
   
