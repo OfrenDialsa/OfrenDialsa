@@ -52,6 +52,9 @@
   <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
   </a>
+ <a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="50" height="50" />
+  </a>
   <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50" />
   </a>
