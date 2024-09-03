@@ -9,9 +9,9 @@
 
 - 🔭 I'm currently working on **Library Management System, and Portfolio Website**
 
-- 🌱 I'm currently working on **Portfolio Website** using **Next.Js**
+- 🌱 I'm currently working on **Todo app** using **Android Studio**
 
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, and C#**
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C#**
 
 - 📫 How to reach me: Email me @**ofrendialsa25@gmail.com**
 
