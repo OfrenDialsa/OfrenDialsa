@@ -2,29 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
----
- 
-## 🚀 About Me
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I'm currently working on **My Portfolio Website**
-
-- 🌱 I'm currently working on **Todo app** using **Android Studio**
-
-- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C#**
-
-- 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
-
-- ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
-
-</td><td align="top" width="50%">
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
-</div></td></tr></table>
-
-
-
 ## Connect with me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
@@ -49,6 +26,31 @@
 <br/>
 <br/>
 </div>
+
+---
+ 
+## 🚀 About Me
+<table><tr><td valign="top" width="50%">
+
+- 🔭 I'm currently working on **My Portfolio Website**
+
+- 🌱 I'm currently working on **Todo app** using **Android Studio**
+
+- 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C#**
+
+- 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
+
+- ⚡ Favourite Quote **'_I belong to the warrior in whom the old ways have joined the new._'**
+
+</td><td align="top" width="50%">
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
+</div></td></tr></table>
+
+
+
+
 
 ---
 ## Languages
