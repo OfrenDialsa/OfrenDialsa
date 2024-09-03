@@ -52,7 +52,7 @@
 
 ---
 ## Languages
-<div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;>
 <a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 </a>
