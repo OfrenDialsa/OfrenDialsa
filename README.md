@@ -100,6 +100,15 @@
 ## Tools
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;>
 <a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VsComm" width="50" height="50" />
+</a>
+<a href=" " target="_blank">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="50" height="50" />
 </a>
 
