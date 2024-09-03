@@ -31,7 +31,7 @@
 <br/>
 <br/>
 <a href="https://github.com/neeerooo" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo" Color=white alt=github style="margin-bottom: 5px;" width="120" height="60" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logo" Color=white alt=github style="margin-bottom: 5px;" width="120" height="20" />
 </a>
 <a href="https://twitter.com/yourfren24" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logo" Color=white alt=twitter style="margin-bottom: 5px;" />
