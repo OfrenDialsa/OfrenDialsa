@@ -47,7 +47,7 @@
 
 
 ---
-## ⚒️ Technical Skill
+## ⚒️ Technical Skills
  ### Languages
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
@@ -132,7 +132,7 @@
 </div>
 
 
-### Framework
+### Frameworks
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
   
 
