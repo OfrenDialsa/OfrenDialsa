@@ -192,7 +192,8 @@
 ---
 ## 🗒️ GitHub Profile Summary Cards
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfrenDialsa&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeerooo&theme=city_lights)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfrenDialsa&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OfrenDialsa&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OfrenDialsa&theme=city_lights) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeerooo&theme=city_lights&utcOffset=8)  
 
 
