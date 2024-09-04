@@ -48,9 +48,7 @@
 
 ---
 ## ⚒️ Technical Skill
-<div align=""center>
  ### Languages
-</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
  
