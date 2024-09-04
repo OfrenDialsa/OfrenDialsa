@@ -33,7 +33,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, PHP, React, Kotlin, Java and C# and more**
 
-- 📫 How to reach me: Email me **@ofrendialsa25@gmail.com**
+- 📫 How to reach me: Email me **ofrendialsa25@gmail.com**
 
 - ⚡ Favourite Quote **'_You never finish a program, you just stop working on it._'**
 
