@@ -156,7 +156,7 @@
  
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Laravel" width="60" height="60" />
 
-  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
 
  
   
