@@ -180,7 +180,7 @@
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60" />
 
-   <img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kodeco.com%2F10194335-database-views-with-room-forandroid&psig=AOvVaw2KJ8Yc83U0EsHdZzCwSnMp&ust=1725711452969000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjXvsimrogDFQAAAAAdAAAAABAg" alt="RoomDB" width="60" height="60" />
+   <img style="margin: 10px" src="https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-saving-data-persistence-android-9dc9eed34348d1d06a4365379fba3a54aa7aabd05d828dbb4de97349126d9718.svg" alt="RoomDB" width="60" height="60" />
 
 
 
