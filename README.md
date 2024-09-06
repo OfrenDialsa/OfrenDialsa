@@ -182,6 +182,8 @@
 
    <img style="margin: 10px" src="https://assets.carolus.kodeco.com/assets/murakami/category-icons/category-saving-data-persistence-android-9dc9eed34348d1d06a4365379fba3a54aa7aabd05d828dbb4de97349126d9718.svg" alt="RoomDB" width="60" height="60" />
 
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="60" height="60" />
+
 
 
 
