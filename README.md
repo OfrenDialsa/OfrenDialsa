@@ -27,7 +27,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
  <br/>
-I'm a Mobile developer specializing in Android development. I enjoy sleep and playing games.
+<h3>I'm a Mobile developer specializing in Android development. I enjoy sleep and playing games.</h3>
 
 - 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
 
