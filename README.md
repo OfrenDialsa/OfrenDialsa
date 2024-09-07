@@ -31,7 +31,7 @@
 
 - 🌱 I'm currently working on **Todo app** using **Android Studio**
 
-- 💬 Ask me about **Mobile and Web Development**
+- 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDb, Firebase and many more**
 
 - 📫 How to reach me: Email me **ofrendialsa25@gmail.com**
 
