@@ -195,14 +195,14 @@
 
 ---
 ## 📝 GitHub Profile Summary Cards
+
+
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfrenDialsa&theme=city_lights) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OfrenDialsa&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OfrenDialsa&theme=city_lights) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OfrenDialsa&theme=city_lights&utcOffset=8)  
-
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=github_dark" alt="Ofren dialsa's GitHub Stats"/>
 </div>
 
 <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
