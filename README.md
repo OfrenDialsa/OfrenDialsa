@@ -33,7 +33,7 @@
 
 - 🌱 I'm currently working on **TodoApp-RoomDb** using **Android Studio**
 
-- 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDb, Firebase and many more**
+- 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
 - 📫 How to reach me: Email me **ofrendialsa25@gmail.com**
 
