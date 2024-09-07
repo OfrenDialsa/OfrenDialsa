@@ -26,6 +26,7 @@
 
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
+<p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
 
 - 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
 
