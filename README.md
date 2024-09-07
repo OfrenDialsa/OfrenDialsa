@@ -48,10 +48,9 @@
 
 ---
 ## ⚒️ Technical Skills
- ### Languages
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
- 
+   <h3>Tools</h3>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
 
 
@@ -95,8 +94,6 @@
 <br/>
 </div>
 
-
-### Tools
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
    <h3>Tools</h3>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="60" height="60" />
@@ -132,9 +129,8 @@
 </div>
 
 
-### Frameworks
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
-  
+  <h3>Frameworks</h3>
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="60" height="60" />
 
@@ -166,9 +162,8 @@
 </div>
 
 
-### Databases
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
-
+  <h3>Databases</h3>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="60" height="60" />
 
 
