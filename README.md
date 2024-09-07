@@ -31,7 +31,7 @@
 
 - 🌱 I'm currently working on **Todo app** using **Android Studio**
 
-- 💬 Ask me about **Android and Mobile Development**
+- 💬 Ask me about **Mobile and Web Development**
 
 - 📫 How to reach me: Email me **ofrendialsa25@gmail.com**
 
