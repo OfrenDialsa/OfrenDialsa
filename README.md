@@ -98,7 +98,7 @@
 
 ### Tools
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
-   <h2>Tools</h2>
+   <h3>Tools</h3>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="60" height="60" />
 
 
