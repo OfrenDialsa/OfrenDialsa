@@ -50,7 +50,7 @@
 ## ⚒️ Technical Skills
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
-   <h3>Tools</h3>
+   <h3>Language</h3>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
 
 
