@@ -26,7 +26,8 @@
 
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
-<p>I'm a [Your Job Title] specializing in [Your Specialization]. I enjoy [hobbies/interests].</p>
+ <br/>
+I'm a Mobile developer specializing in Android development. I enjoy sleep and playing games.
 
 - 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
 
