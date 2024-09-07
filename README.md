@@ -27,7 +27,7 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I'm currently working on **My Portfolio Website**
+- 🔭 I'm currently learning qt **Bangkit Academy 2024 - Android learning path**
 
 - 🌱 I'm currently working on **Todo app** using **Android Studio**
 
