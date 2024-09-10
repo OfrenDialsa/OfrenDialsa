@@ -189,6 +189,7 @@
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="60" height="60" />
 
 
+<br><br>
 
  <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
