@@ -190,8 +190,10 @@
 
 
 
+ <div align="center"> 
+<p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/OfrenDialsa/count.svg"  alt="profile vistor count"/><br><br>
- <br/>
+
  <br/>
 </div>
 
