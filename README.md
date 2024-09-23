@@ -25,6 +25,11 @@
 <a href="https://discordapp.com/users/1011201733231378494" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt=Discord style="margin-bottom: 5px;" width="70" height="70"/>
 </a>
+  <div align="center"> 
+<p style="font-size: medium"><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/OfrenDialsa/count.svg"  alt="profile vistor count"/>
+ <br/>
+</div>
 </div>
 
 ## 🚀 About Me
@@ -193,12 +198,7 @@
 
 <br><br>
 
- <div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/OfrenDialsa/count.svg"  alt="profile vistor count"/><br><br>
 
- <br/>
-</div>
 
 ---
 ## 📝 GitHub Profile Summary Cards
