@@ -7,17 +7,16 @@
 
 ---
  
-
-
-
-   ## 🤝 Connect with me
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/OfrenDialsa/count.svg"  alt="profile vistor count"/>
  <br/>
 </div>
+
+
+   ## 🤝 Connect with me
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" Color=white alt=linkedin style="margin-top: 5px;" width="70" height="70" />
 </a>
