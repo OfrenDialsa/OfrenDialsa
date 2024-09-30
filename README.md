@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
-- 📫 How to reach me: Email me **ofrendialsa25@gmail.com**
+- 📫 How to reach me: Email me **ofrendialsa.work@gmail.com**
 
 - ⚡ Favourite Quote **'_You never finish a program, you just stop working on it._'**
 
