@@ -34,7 +34,7 @@
  
 - 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
 
-- 🌱 I'm currently working on **TodoApp-RoomDb** using **Android Studio**
+- 🌱 I'm currently working on **BisaAbsen mobile app** using **Jetpack compose**
 
 - 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
