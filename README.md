@@ -37,7 +37,7 @@
 
 - 🌱 I'm currently working on **BisaAbsen mobile app** using **Jetpack compose**
 
-- 💬 Ask me about **Android studio, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
+- 💬 Ask me about **Android studio, Jetpack Compose, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
 - 📫 How to reach me: Email me **ofrendialsa.work@gmail.com**
 
