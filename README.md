@@ -34,7 +34,7 @@
  
 - 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
 
-- 🌱 I'm currently working on **BisaAbsen mobile app** using **Jetpack compose**
+- 🌱 I'm currently working on **NeroBot - AI Assistant** using **Jetpack compose**
 
 - 💬 Ask me about **Android studio, Jetpack Compose, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
