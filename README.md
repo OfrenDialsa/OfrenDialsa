@@ -124,7 +124,7 @@
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="60" height="60" />
 
 
-   <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000" alt="Github" width="60" height="60" />
+   <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" alt="Github" width="60" height="60" />
 
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="60" height="60" />
