@@ -165,7 +165,7 @@
  
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Dotnet" width="60" height="60" />
 
-   <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" alt="Express.js" width="60" height="60" />
+   <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" alt="Express.js" width="60" height="60" />
           
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
