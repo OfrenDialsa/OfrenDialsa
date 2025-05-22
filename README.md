@@ -29,9 +29,9 @@
 
 <h3 text-align="center">"I'm a Mobile developer specializing in Android development. I enjoy sleeping and playing games."</h3>
  
-- 🔭 I'm currently learning at **Bangkit Academy 2024 - Android learning path**
+- 🔭 I'm currently learning at **AWS x Dicoding Backend Academy**
 
-- 🌱 I'm currently working on **NeroBot - AI Assistant** using **Jetpack compose**
+- 🌱 I'm currently working on **PerpusGo** using **Golang**
 
 - 💬 Ask me about **Android studio, Jetpack Compose, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
