@@ -1,6 +1,6 @@
 <div align="center" text-align="center">
  
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=32&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B!;My+name+is+Ofren+Dialsa%F0%9F%98%81;I+am+a+Mobile+developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=32&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B!;My+name+is+Ofren+Dialsa%F0%9F%98%81;I+am+a+Fullstack+developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 <img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzODkwMDAsIm5iZiI6MTcyNTM4ODcwMCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAzVDE4MzgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU2NzMyYjZjYjcwOTMxMTNkMDFmOTg0NzI0Njc2N2JhNmJjOTA3MDMyZDZmMGM5MTE3NGE2NDljNjBjNTEyNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EjRyR3T5TQaBBDkzF4bO46rxHx94bsPQTJvWzq-Q060" align="center" style="width: 60%" />
 </div>
 
@@ -27,11 +27,11 @@
 ## 🚀 About Me
 <table><tr><td valign="top" width="50%">
 
-<h3 text-align="center">"I'm a Mobile developer specializing in Android development. I enjoy sleeping and playing games."</h3>
+<h3 text-align="center">"I'm a Fullstack developer specializing Web and Mobile Development. I enjoy sleeping and playing games."</h3>
  
 - 🔭 I'm currently learning at **AWS x Dicoding Backend Academy**
 
-- 🌱 I'm currently working on **PerpusGo** using **Golang**
+- 🌱 I'm currently working on **ForumAPI** using **Javascript**
 
 - 💬 Ask me about **Android studio, Jetpack Compose, Flutter, Next.Js, MySql, RoomDB, Firebase and many more**
 
@@ -54,49 +54,30 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 
-
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" />   
    
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60" />
-
-   
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
 
    <br/>
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
-
-
-  
-
-
-
 
 <br/>
 <br/>
@@ -107,31 +88,21 @@
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio code" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="Intellij" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="VsComm" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=lkh3AbJLmFpp&format=png&color=000000" alt="Github" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" alt="Composer" width="60" height="60" />
 
    <img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Composer" width="60" height="60" />
-
-
-
 
 <br/>
 <br/>
@@ -141,33 +112,22 @@
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="60" height="60" />
-
  
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="60" height="60" />
-
  
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://img.icons8.com/?size=100&id=z228V7A9QyTv&format=png&color=000000" alt="Express.js" width="60" height="60" />
 
-
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="60" height="60" />
-
  
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" alt="Dotnet" width="60" height="60" />
    
-
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
-
- 
-  
   
  <br/>
  <br/>
@@ -176,7 +136,6 @@
 ### Databases
 <div align="center" style="display: flex; flex-wrap: wrap;  row-gap:40px;">
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="60" height="60" />
-
 
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MicrosoftSql" width="60" height="60" />
 
@@ -194,8 +153,6 @@
 
 
 <br><br>
-
-
 
 ---
 ## 📝 GitHub Profile Summary Cards
