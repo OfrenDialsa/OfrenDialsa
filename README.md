@@ -1,10 +1,9 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<div align="center" text-align="center">
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=30&duration=3500&pause=1500&color=7FA9C3&center=true&vCenter=true&width=500&lines=Hello+there+!+%F0%9F%91%8B;My+name+is+Ofren+Dialsa;I+am+a+Fullstack+developer" alt="Typing SVG" />
 
 
-   ## 🤝 Connect with me
+## 🤝 Connect with me
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; row-gap:40px;">
 <a href="https://www.linkedin.com/in/ofren-dialsa-64b6b2239/" target="_blank">
