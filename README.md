@@ -56,7 +56,7 @@
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,laravel,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,laravel,hapijs" />
   </a>
 </p>
 
@@ -70,10 +70,9 @@
 ### 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,nodejs,postman,nginx,docker,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,vscode,androidstudio,nodejs,postman,nginx,docker,git,github,gitlab" />
   </a>
 </p>
----
 
 ## 📊 GitHub Analytics
 
