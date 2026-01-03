@@ -112,6 +112,4 @@
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OfrenDialsa&theme=city_lights" alt="Ofren dialsa Stat's" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OfrenDialsa&theme=city_lights&utcOffset=8" alt="Ofren dialsa Stat's" />  
 </div>
-
-<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
       
