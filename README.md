@@ -70,7 +70,7 @@
 ### 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,vscode,androidstudio,nodejs,postman,nginx,docker,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,ubuntu,vscode,androidstudio,nodejs,postman,nginx,docker,git,github,gitlab" />
   </a>
 </p>
 
