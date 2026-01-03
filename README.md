@@ -87,5 +87,8 @@
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=city_lights" width="70%" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA9C3&height=100&section=footer" width="100%"/>
 </p>
