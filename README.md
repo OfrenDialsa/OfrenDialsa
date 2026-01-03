@@ -56,21 +56,21 @@
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,laravel,hapijs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,laravel,hapijs" />
   </a>
 </p>
 
 ### 💾 Databases & Cloud
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,mongodb,firebase" />
   </a>
 </p>
 
 ### 🛠️ Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,ubuntu,vscode,androidstudio,nodejs,postman,nginx,docker,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,vscode,androidstudio,nodejs,pnpm,rabbitmq,redis,postman,nginx,docker,githubactions" />
   </a>
 </p>
 
