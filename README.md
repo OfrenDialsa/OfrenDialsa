@@ -29,7 +29,7 @@
         <em>"A passionate Fullstack Developer specializing in Web and Mobile development. I thrive on building efficient solutions and enjoy a good game or a restful break to recharge my creativity."</em>
       </p>
       <ul>
-        <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="portfolio.codefren.site">portfolio.codefren.site</a></li>
+        <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://www.portfolio.codefren.site/">portfolio.codefren.site</a></li>
         <li>🔭 <strong>Learning:</strong> Deepening Backend skills at <strong>AWS x Dicoding Academy</strong>.</li>
         <li>🌱 <strong>Active Project:</strong> Building <strong>ForumAPI</strong> with <strong>JavaScript/Node.js</strong>.</li>
         <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Jetpack Compose, Flutter, Next.js, and Firebase</strong>.</li>
