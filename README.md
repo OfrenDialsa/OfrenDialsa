@@ -87,7 +87,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=city_lights" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfrenDialsa&theme=city_lights" width="45%" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OfrenDialsa&theme=city_lights" width="45%" />
   <br />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OfrenDialsa&theme=city_lights" width="45%" />
@@ -95,5 +95,6 @@
 </div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OfrenDialsa&theme=city_lights" width="60%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OfrenDialsa&theme=city_lights" width="90%" />
+
 </p>
