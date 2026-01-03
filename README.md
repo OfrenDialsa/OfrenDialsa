@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7FA9C3&height=100&section=header" width="100%"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=30&duration=3500&pause=1500&color=7FA9C3&center=true&vCenter=true&width=500&lines=Hello+there+!+%F0%9F%91%8B;My+name+is+Ofren+Dialsa;I+am+a+Fullstack+developer" alt="Typing SVG" />
 </p>
 
