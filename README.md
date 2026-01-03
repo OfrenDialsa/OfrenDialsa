@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div align="center" text-align="center">
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=30&duration=3500&pause=1500&color=7FA9C3&center=true&vCenter=true&width=500&lines=Hello+there+!+%F0%9F%91%8B;My+name+is+Ofren+Dialsa;I+am+a+Fullstack+developer" alt="Typing SVG" />
@@ -56,8 +57,8 @@
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="60" height="60" />
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="60" height="60" />
    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" height="60" />
-   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" />   
-
+   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60" />
+ <i class="devicon-go-original-wordmark colored"></i>
 <br/>
 <br/>
 </div>
