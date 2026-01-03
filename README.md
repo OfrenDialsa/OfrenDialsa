@@ -45,35 +45,36 @@
 
 ---
 ## ⚒️ Technical Skills
-
-### 🌐 Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,php,kotlin" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,php,kotlin" />
   </a>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,laravel,hapijs" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,hapijs,laravel" />
   </a>
 </p>
 
-### 💾 Databases & Cloud
+### 💾 Databases & Cloud Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,firebase,aws" />
   </a>
 </p>
 
-### 🛠️ Tools & DevOps
+### 🛠️ Tools, Middleware & OS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,vscode,androidstudio,nodejs,pnpm,rabbitmq,redis,postman,nginx,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nodejs,pnpm,rabbitmq,redis,nginx,docker,githubactions" />
   </a>
+  <br />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,linux,ubuntu" />
 </p>
 
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
