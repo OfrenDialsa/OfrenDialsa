@@ -54,7 +54,7 @@
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,hapijs,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,laravel" />
   </a>
 </p>
 
