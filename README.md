@@ -23,8 +23,8 @@
       <ul>
         <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://www.portfolio.codefren.site/">portfolio.codefren.site</a></li>
         <li>🔭 <strong>Learning:</strong> Deepening Backend skills at <strong>AWS x Dicoding Academy</strong>.</li>
-        <li>🌱 <strong>Active Project:</strong> Building <strong>ForumAPI</strong> with <strong>JavaScript/Node.js</strong>.</li>
-        <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Jetpack Compose, Flutter, Next.js, and Firebase</strong>.</li>
+        <li>🌱 <strong>Active Project:</strong> Building <strong>Neromerce</strong> with <strong>Golang/Gin Gonic</strong>.</li>
+        <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Backend Development, Web/Mobile Frontend etc.</strong>.</li>
         <li>📫 <strong>Reach me:</strong> <strong><a href="mailto:ofrendialsa.work@gmail.com">ofrendialsa.work@gmail.com</a></strong></li>
         <li>⚡ <strong>Motto:</strong> <em>"You never finish a program, you just stop working on it."</em></li>
       </ul>
