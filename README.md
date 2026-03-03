@@ -39,14 +39,14 @@
 ## ⚒️ Technical Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,php,kotlin" />
+    <img src="https://skillicons.dev/icons?i=go,ts,php,kotlin" />
   </a>
 </p>
 
 ### 🚀 Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,express,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel" />
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 ### 🛠️ Tools, Middleware & OS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,pnpm,rabbitmq,redis,nginx,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=nodejs,pnpm,redis,nginx,docker,githubactions" />
   </a>
   <br />
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,linux,ubuntu" />
