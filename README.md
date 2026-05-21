@@ -22,7 +22,7 @@
       </p>
       <ul>
         <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://www.portfolio.codefren.site/">portfolio.codefren.site</a></li>
-        <li>🔭 <strong>Status: Currently</strong> Pursuing my degree at <strong>Universitas Jambi</strong>.</li>
+        <li>🔭 <strong>Status: </strong> Currently Pursuing my degree at <strong>Universitas Jambi</strong>.</li>
         <li>🌱 <strong>Active Project:</strong> Building <strong>Go Backend Starter kit</strong> with <strong>Golang/Gin Gonic</strong>.</li>
         <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Backend Development, Web/Mobile Frontend, etc</strong>.</li>
         <li>📫 <strong>Reach me:</strong> <strong><a href="mailto:ofrendialsa.work@gmail.com">ofrendialsa.work@gmail.com</a></strong></li>
