@@ -11,19 +11,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <table>
   <tr>
     <td valign="top" width="60%">
       <br />
       <p align="left">
-        <em>"A passionate Fullstack Developer specializing in Web and Mobile development. I thrive on building efficient solutions and enjoy a good game or a restful break to recharge my creativity."</em>
+        <em>"A passionate Software Engineer specializing in Backend development. I thrive on building efficient solutions and enjoy a good game or a restful break to recharge my creativity."</em>
       </p>
       <ul>
         <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://www.portfolio.codefren.site/">portfolio.codefren.site</a></li>
-        <li>🔭 <strong>Learning:</strong> Deepening Backend skills at <strong>AWS Backend Academy</strong>.</li>
-        <li>🌱 <strong>Active Project:</strong> Building <strong>Neromerce</strong> with <strong>Golang/Gin Gonic</strong>.</li>
+        <li>🔭 <strong>Status: Currently</strong> Pursuing my degree at <strong>Universitas Jambi</strong>.</li>
+        <li>🌱 <strong>Active Project:</strong> Building <strong>Go Backend Starter kit</strong> with <strong>Golang/Gin Gonic</strong>.</li>
         <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Backend Development, Web/Mobile Frontend, etc</strong>.</li>
         <li>📫 <strong>Reach me:</strong> <strong><a href="mailto:ofrendialsa.work@gmail.com">ofrendialsa.work@gmail.com</a></strong></li>
         <li>⚡ <strong>Motto:</strong> <em>"You never finish a program, you just stop working on it."</em></li>
@@ -36,28 +36,28 @@
 </table>
 
 ---
-## ⚒️ Technical Skills
+## Technical Skills
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,ts,php,kotlin" />
   </a>
 </p>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,laravel" />
   </a>
 </p>
 
-### 💾 Databases & Cloud Infrastructure
+### Databases & Cloud Infrastructure
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,supabase,firebase,aws" />
   </a>
 </p>
 
-### 🛠️ Tools, Middleware & OS
+### Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,pnpm,redis,nginx,docker,githubactions" />
