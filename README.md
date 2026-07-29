@@ -21,7 +21,7 @@
         <em>"A passionate Software Engineer specializing in Backend development. I thrive on building efficient solutions and enjoy a good game or a restful break to recharge my creativity."</em>
       </p>
       <ul>
-        <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://www.ofrendialsa.netlify.app/">ofrendialsa.netlify.app</a></li>
+        <li>⚒️ <strong>Portfolio:</strong> You can check my <strong>portfolio</strong> at <a href="https://ofrendialsa.netlify.app/">ofrendialsa.netlify.app</a></li>
         <li>🔭 <strong>Status: </strong> Currently Pursuing my degree at <strong>Universitas Jambi</strong>.</li>
         <li>🌱 <strong>Active Project:</strong> Building <strong>Go Backend Starter kit</strong> with <strong>Golang/Gin Gonic</strong>.</li>
         <li>💬 <strong>Inquiries:</strong> Ask me about <strong>Backend Development, Web/Mobile Frontend, etc</strong>.</li>
